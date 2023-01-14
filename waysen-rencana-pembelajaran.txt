@@ -2,3 +2,5 @@ rencana pembelajaran
 - Java
 - PHP
 - Javascript
+* ES6
+* FRAMEWORK
