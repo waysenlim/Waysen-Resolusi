@@ -1,4 +1,4 @@
 Waysen Resolusi
 - belajar github bulan januari
 - belajar php bulan februari
-- belajar java bulan maret
+- belajar javascript bulan april
